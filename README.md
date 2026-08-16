@@ -123,6 +123,41 @@ An interactive Power BI business intelligence solution developed to analyse sale
 
 ---
 
+## 📈 Quarterly Sales Time Series Forecasting – Excel
+
+A classical time-series forecasting project developed in Microsoft Excel to analyze quarterly car sales, identify seasonal patterns, estimate the underlying sales trend, and forecast sales for Year 5.
+
+The project applies **moving averages, centered moving averages, seasonal decomposition, deseasonalization, simple linear regression, and re-seasonalized forecasting**.
+
+### Key Highlights
+
+- 16 historical quarterly observations across four years
+- 4-quarter moving average and centered moving average
+- Quarterly seasonal index calculation
+- Deseasonalized sales analysis
+- Linear trend modelling using regression
+- **R² = 0.921**
+- Year 5 quarterly sales forecasting
+- Total Year 5 forecast of approximately **31.40 ('000)**
+- Q4 identified as the strongest seasonal quarter
+- Q2 identified as the weakest seasonal quarter
+
+### Year 5 Forecast
+
+| Quarter | Forecast Sales ('000) |
+|---|---:|
+| Q1 | 7.09 |
+| Q2 | 6.49 |
+| Q3 | 8.63 |
+| Q4 | 9.19 |
+
+### Tools & Skills
+
+`Microsoft Excel` `Time Series Analysis` `Moving Average` `Centered Moving Average` `Seasonal Decomposition` `Deseasonalization` `Linear Regression` `Forecasting` `Data Visualization`
+
+🔗 **[View Quarterly Sales Time Series Forecasting Project](https://github.com/paul-shir/Quarterly-Sales-Time-Series-Forecasting-Excel)**
+
+---
 ## 🏥 Healthcare Admissions Analytics – Excel
 
 An interactive Microsoft Excel healthcare analytics project developed to analyze patient admissions, diagnoses, demographics, hospital activity, regional patterns, and length of stay.

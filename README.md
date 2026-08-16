@@ -47,6 +47,31 @@ I enjoy working across the complete analytics workflow — from data preparation
 * Business Performance Analysis
 * Public Health Data Analytics
 * Hr Analytics
+* Health Analytics
+
+---
+# 📊 Featured Projects
+
+## Lassa Fever Machine Learning Forecasting
+
+A leakage-aware machine learning project developed to forecast weekly Lassa fever cases using temporal surveillance data.
+
+The project applies time-aware feature engineering and machine learning techniques to analyse disease trends while avoiding temporal data leakage.
+
+### Key areas:
+
+* Time-series feature engineering
+* Lag and rolling features
+* Machine learning regression
+* Temporal validation
+* Model performance evaluation
+* Public health forecasting
+
+### Technologies:
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `Machine Learning`
+
+🔗 [View Project](https://github.com/paul-shir/lassa-fever-machine-learning-forecasting)
 
 ---
 
@@ -74,7 +99,6 @@ The project analyzes **1,470 employees** across demographics, job roles, departm
 🔗 **[View HR Employee Attrition Analytics Project](https://github.com/paul-shir/HR-Employee-Attrition-Analytics-Excel)**
 
 ---
-# 📊 Featured Projects
 
 ## Sales Performance Business Intelligence – Power BI
 
@@ -99,29 +123,31 @@ An interactive Power BI business intelligence solution developed to analyse sale
 
 ---
 
-## Lassa Fever Machine Learning Forecasting
+## 🏥 Healthcare Admissions Analytics – Excel
 
-A leakage-aware machine learning project developed to forecast weekly Lassa fever cases using temporal surveillance data.
+An interactive Microsoft Excel healthcare analytics project developed to analyze patient admissions, diagnoses, demographics, hospital activity, regional patterns, and length of stay.
 
-The project applies time-aware feature engineering and machine learning techniques to analyse disease trends while avoiding temporal data leakage.
+The project transforms healthcare admission records into an interactive decision-support dashboard for understanding patient demand and hospital performance.
 
-### Key areas:
+### Key Highlights
 
-* Time-series feature engineering
-* Lag and rolling features
-* Machine learning regression
-* Temporal validation
-* Model performance evaluation
-* Public health forecasting
+- 100 patient admissions analyzed
+- 6 hospitals
+- 6 diagnosis categories
+- 5 geographic regions
+- 51.8 years average patient age
+- 7.6 days average length of stay
+- Hospital, diagnosis, region, and gender filtering
+- Automated filter reset using VBA
+- Analysis of monthly admission trends and patient age groups
 
-### Technologies:
+### Tools & Skills
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `Machine Learning`
+`Microsoft Excel` `Power Query` `PivotTables` `PivotCharts` `VBA` `Slicers` `Healthcare Analytics` `Data Visualization`
 
-🔗 [View Project](https://github.com/paul-shir/lassa-fever-machine-learning-forecasting)
+🔗 **[View Healthcare Admissions Analytics Project](https://github.com/paul-shir/Healthcare-Admissions-Analytics-Excel)**
 
 ---
-
 ## 💡 What I Focus On
 
 I am particularly interested in using data to answer practical questions such as:

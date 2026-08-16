@@ -46,9 +46,34 @@ I enjoy working across the complete analytics workflow — from data preparation
 * Geographic Analysis
 * Business Performance Analysis
 * Public Health Data Analytics
+* Hr Analytics
 
 ---
 
+## 📊 HR Employee Attrition Analytics – Excel
+
+An interactive Microsoft Excel HR analytics project developed to examine employee turnover and identify workforce segments with higher attrition risk.
+
+The project analyzes **1,470 employees** across demographics, job roles, departments, age groups, business travel, job satisfaction, performance, and other workforce factors.
+
+### Key Highlights
+
+- 1,470 total employees
+- 237 employee attritions
+- 16% overall attrition rate
+- 1,233 active employees
+- 84% active employee rate
+- 34 years average age of employees who left
+- Analysis by gender, age group, department, job role, education field, and business travel
+- Interactive HR dashboard with slicers and KPI indicators
+
+### Tools & Skills
+
+`Microsoft Excel` `Power Query` `PivotTables` `PivotCharts` `Slicers` `Data Cleaning` `HR Analytics` `Dashboard Design`
+
+🔗 **[View HR Employee Attrition Analytics Project](https://github.com/paul-shir/HR-Employee-Attrition-Analytics-Excel)**
+
+---
 # 📊 Featured Projects
 
 ## Sales Performance Business Intelligence – Power BI
